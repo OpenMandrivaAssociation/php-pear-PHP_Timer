@@ -3,7 +3,7 @@
 Summary:	Utility class for timing
 Name:		php-pear-%{upstream_name}
 Version:	1.0.2
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/PHP
 URL:		http://www.phpunit.de/
